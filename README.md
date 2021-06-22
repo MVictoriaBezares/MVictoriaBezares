@@ -1,6 +1,5 @@
 ### Hi there 👋 s  soy María Victoria  Bezares.
 Soy estudiante Front-End Developer, me destaco por mi alto sentido de responsabilidad, perseverancia y proactividad, con mucho interés en aprender. 
-**MVictoriaBezares/MVictoriaBezares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
